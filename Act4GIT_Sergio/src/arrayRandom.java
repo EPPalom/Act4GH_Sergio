@@ -1,7 +1,7 @@
 
 public class arrayRandom {
 
-  private int[] numeros = new int[20];
+  private int[] numeros = new int[40];
   private int longitudMax = 10;
   private int longitudMin = 1;
 
